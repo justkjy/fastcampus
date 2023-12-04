@@ -31,7 +31,8 @@
      
    * 대전 기록 버튼 누른 후 플레이 대전 기록 리스트와 분석
      
-    ![image](https://github.com/justkjy/fastcampus/assets/150637462/954a8b43-aa2b-40aa-9041-b7f6efb6e577)
+   ![image](https://github.com/justkjy/fastcampus/assets/150637462/3fa9c587-5ebc-4d9d-b07c-77ff6009e3e6)
+
 
    * 챔피언 정보
      
