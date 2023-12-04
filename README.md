@@ -14,11 +14,12 @@
     ![image](https://github.com/justkjy/fastcampus/assets/150637462/cd989c18-8ac4-42a8-a55b-bdfd9bbfb34c)
    
    
-4. 강의에서 배우고 작업한 결과 물
-   롤 전적 검색 
-   롤 게임의 플레이 전적 검색과 사용하는 챔피언 정보를 볼 수 있는 앱 개발 출시 
+3. 강의에서 배우고 작업한 결과 물
    
-   - Git : https://github.com/justkjy/lolSearchUser
+  - 롤 전적 검색 앱 개발
+   * 롤 게임의 플레이 전적 검색과 사용하는 챔피언 정보를 볼 수 있는 앱 개발 출시 
+   
+   * Git : https://github.com/justkjy/lolSearchUser
       ![image](https://github.com/justkjy/fastcampus/assets/150637462/23bb96ec-fd18-48ba-9ecb-fd6f285fc212)
 
   -앱 구조 
